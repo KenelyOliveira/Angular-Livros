@@ -1,0 +1,36 @@
+/* Add application styles & imports to this file! */
+
+.fundo {
+  background-color: #75b8c8;
+
+}
+
+.titulo {
+
+
+    font-family: 'Kodchasan', sans-serif;
+
+    /* font-family: 'Fahkwang', sans-serif; */
+
+
+
+}
+
+.text-rigth {
+  text-align: right;
+  float: right;
+}
+
+.text-left {
+  text-align: left;
+  float: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.p-t-10 {
+  padding-top: 10pt;
+
+}
